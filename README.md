@@ -1,4 +1,4 @@
-# Hacker-Rank_C_Solutions
+# HackerRank_C_Solutions
 
 Welcome to this repository, which contains solutions to HackerRank's different C language challenges. These solutions have been created solely for educational reasons and are not meant for commercial or monetary benefit.
 
